@@ -19,7 +19,7 @@ Meu nome é Daniel, sou um estudante do Ensino Médio e desejo trabalhar na áre
 
 ![Status](https://github-readme-stats.vercel.app/api?username=dan0154&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dan0154&theme=dark&hide_border=false)<br/>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dan0154&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dan0154&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=)
 
 ---
 
