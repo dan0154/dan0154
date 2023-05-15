@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+![Header](./github-header-image.png)
 # 💫 About Me:
 Meu nome é Daniel, sou um estudante do Ensino Médio e desejo trabalhar na área da computação assim que possível
 </br>
