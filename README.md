@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Daniel Alexandre
+![Header](./header.png)
+## 💫 Sobre mim:
 Meu nome é Daniel, sou um estudante do Ensino Médio e desejo trabalhar na área da computação assim que possível
 </br>
 [![](https://visitcount.itsvg.in/api?id=dan0154&icon=0&color=0)](https://visitcount.itsvg.in)
