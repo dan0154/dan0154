@@ -1,8 +1,11 @@
-# Olá, bem vindo ao meu perfil!
+# Olá, bem vindo ao meu perfil
+
 Meu nome é Daniel, sou um estudante do Ensino Médio e desejo trabalhar na área da computação assim que       possível
 
 ---
+
 ## Status
+
 <center>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dan0154&show_icons=true&theme=transparent)
@@ -11,15 +14,15 @@ Meu nome é Daniel, sou um estudante do Ensino Médio e desejo trabalhar na áre
 </center>
 
 ---
+
 ## Linguagens em processo de aprendizado
-<center>
+
 <img src = "https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width = 50px/>
 <img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width = 50px/>
 <img src = "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width = 50px/>
 
 <img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width = 50px/>
-</center>
 
 ---
-## Ferramentas
 
+## Ferramentas
