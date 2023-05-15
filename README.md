@@ -1,3 +1,4 @@
+![Header](./github-header-image (1).png)
 # 💫 About Me:
 Meu nome é Daniel, sou um estudante do Ensino Médio e desejo trabalhar na área da computação assim que possível
 </br>
@@ -14,9 +15,9 @@ Meu nome é Daniel, sou um estudante do Ensino Médio e desejo trabalhar na áre
 <img src = "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height = 50px>
 <img src = "https://www.vectorlogo.zone/logos/github/github-tile.svg" height = 50px>
 <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height = 50px>
+<img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height = 50px>
 
 ## 📊 GitHub Status:
-<center>
 
 ![Status](https://github-readme-stats.vercel.app/api?username=dan0154&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dan0154&theme=dark&hide_border=false)<br/>
