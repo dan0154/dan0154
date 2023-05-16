@@ -20,7 +20,7 @@ Meu nome é Daniel, sou um estudante do Ensino Médio e desejo trabalhar na áre
 ## 📊 GitHub Status:
 
 <img src = "https://github-readme-stats.vercel.app/api?username=dan0154&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=525" height = 150> <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dan0154&theme=dark&hide_border=false&card_width=525&border_radius=4.5" height = 150>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dan0154&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=960" height = 150px>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dan0154&theme=dark&hide_border=false&include_all_commits=false&count_private=false&card_width=930" height = 150px>
 
 
 ---
